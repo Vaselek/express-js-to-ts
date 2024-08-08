@@ -1,7 +1,3 @@
-function complexCalculation(a, b) {
+export function complexCalculation(a, b) {
   return a * b;
 }
-
-module.exports = {
-  complexCalculation,
-};
